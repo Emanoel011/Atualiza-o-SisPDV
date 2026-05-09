@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "URL_DIRETA_PARA_O_SEU_ARQUIVO_EXE.exe",
-  "release_notes": "Correcao na ficha tecnica e melhorias na tela de vendas."
+  "version": "1.1.0",
+  "download_url": "https://github.com/Emanoel011/Atualiza-o-SisPDV/releases/download/v1.1.0/SistemaPDV.exe",
+  "release_notes": "Novas notificações modernas, arredondamento de preços (0, 5, 9) e relatórios mensais automáticos."
 }
+
